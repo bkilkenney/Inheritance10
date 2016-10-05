@@ -1,0 +1,6 @@
+c:\users\bkilkenney\documents\visual studio 2015\Projects\inheritance10\inheritance10\bin\Debug\inheritance10.exe.config
+c:\users\bkilkenney\documents\visual studio 2015\Projects\inheritance10\inheritance10\bin\Debug\inheritance10.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\inheritance10\inheritance10\bin\Debug\inheritance10.pdb
+c:\users\bkilkenney\documents\visual studio 2015\Projects\inheritance10\inheritance10\obj\Debug\inheritance10.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\inheritance10\inheritance10\obj\Debug\inheritance10.pdb
+c:\users\bkilkenney\documents\visual studio 2015\Projects\inheritance10\inheritance10\obj\Debug\inheritance10.csprojResolveAssemblyReference.cache
